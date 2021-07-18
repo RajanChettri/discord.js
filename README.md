@@ -13,6 +13,8 @@
   </p>
 </div>
 
+## This is Added by Rajan Chettri. ❤️
+
 ## About
 
 discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
